@@ -3,8 +3,9 @@ Swag plugin
 This is the main plugin of the swag system. This the plugin that enables the creation of swagpaths and swagifacts through shortcodes.
 
 ##Setup
-* Clone the repo down to your wordpress plugin folder and enable the plugin in the admin menu.
-* You can optionally use the [Github updator](https://github.com/afragen/github-updater) plugin to install it.
+* Clone the repo down to your wordpress plugin folder. Use "git clone" or clone directly from the repo. 
+* Enable the plugin in the admin menu.
+(You can optionally use the [Github updator](https://github.com/afragen/github-updater) plugin to install it.)
 
 
 ## How it works
